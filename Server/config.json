@@ -1,0 +1,9 @@
+{
+  "IP": "127.0.0.1",
+  "PORT": 1000,
+  "MIN_USER_NAME": 3,
+  "MAX_USER_NAME": 10,
+  "MAX_NUMBER_OF_ROOMS": 2,
+  "MAX_NUMBER_OF_USERS": 10,
+  "TIMEOUT": 500
+}
